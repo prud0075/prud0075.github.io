@@ -1,0 +1,47 @@
+body {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header { /* 0 0 0 1 */
+    font-size: 200%;
+}
+
+.emphasis { /* 0 0 1 0 */
+    font-style: italic;
+}
+
+.warning{
+    color: crimson;
+}
+
+#primary {
+    font-weight: bold;
+}
+
+/* change heading color */
+h1, h2 {
+    color:salmon;
+}
+
+/* descendancy selector */
+footer p {
+    font-size: 50%;
+    text-align: center;
+}
+
+/* attribute selector */
+a[href="http://algonquincollege.com"] {
+    text-decoration: none;
+}
+
+/* pseudo class */
+a:link, a:visited {
+    color: crimson;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    text-decoration: underline;
+    color: darkgreen;
+}
