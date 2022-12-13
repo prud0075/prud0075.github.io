@@ -1,0 +1,298 @@
+body{
+    
+}
+
+p{
+    font-family: open sans;
+    color: #c78c06;
+    
+}
+
+#home{
+    color: #222;
+}
+#container1{
+    background-color: #222;
+    height: 600px;
+    width: 80%;
+    margin: 0 auto;
+
+    }
+#container1 input{
+    position: relative;
+    margin: 0 auto;
+    top: 55%;
+    left: 2%;
+    width: 90%;
+    height: 35px;
+
+}
+
+#subContainer{
+    background-color: #c78c06;
+    height: 200px;
+    width: 95%;
+    margin: 0 auto;
+    position: relative;
+    top: 4%;
+}
+#buttonContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    top: 20%;
+}
+#buttonContainer p{
+font-size: large;
+font-weight: 600;
+}
+
+#container2{
+    background-color: burlywood;
+    height: 500px;
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    }
+
+#welcomebox {
+    height: 500px;
+    width: 875px;
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 75px;
+}
+
+#welcometitle {
+    color: white;
+    font-size: 70px;
+    font-weight: 1000;  
+}
+
+#welcometext {
+    color: white;
+
+}
+
+#connectbutton {
+    background-color: #c78c06;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#connectbuttontext {
+    color: black;
+    font-size: 20px;
+    
+}
+
+#container3 {
+    background-color:wheat;
+
+}
+
+#aboutus {
+    color: black;
+    font-size: 40px;
+    font-weight: 1000
+}
+
+#aboutustext {
+    color: black;
+}
+
+#imagediv {
+    padding-left: 14px;
+    padding-top: 14px;
+}
+
+#services {
+    font-size: 40px;
+    font-weight: 1000;
+    color: black;
+}
+
+#digitaltransformation {
+    background-color: wheat;
+}
+
+#dtfont {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+#digitalplansbutton {
+    background-color: #222;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    }
+
+#mfont {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    }
+
+#marketingplansbutton {
+    background-color: #222;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+}
+
+#video {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    }
+
+#videoplansbutton {
+    background-color: #222;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+}
+
+#web {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    }
+
+#webplansbutton {
+    background-color: #222;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+}
+
+#print {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    }
+
+#printplansbutton {
+    background-color: #222;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+}
+
+#container4 {
+    position: relative;    
+}
+
+#vision {
+    top: 30px;
+    position:absolute;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: open sans;
+}
+
+#learnmorebutton {
+    background-color: #222;
+    opacity: 60%;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+}
+   
+#team {
+        font-size: 40px;
+        font-weight: 1000;
+        color: black;
+}
+
+#name {
+    background-color: wheat;
+}
+
+#namefont {
+    font-size: 40px;
+    font-weight: bold;
+    font-weight: 1000;
+    color: black;
+}
+
+#stfont {
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+#contactpage {
+    background-color: white;
+    color: black;
+}
+
+#fullname {
+    width: 99%;
+}
+
+#email {
+    width: 99%;
+}
+
+#message {
+    width: 99%;
+    height: 70px;
+}
+
+a:link {
+    color: #c78c06;
+    text-decoration: none;
+    background-color: #222;
+    border-style: solid;
+    border-color: #c78c06;
+    
+}
+
+table {
+    background-color: black;
+}
+
+th {
+    background-color: wheat;
+}
+
+td {
+    background-color: white;
+}
+
+#location {
+    color: black;
+}
